@@ -1,5 +1,6 @@
 package com.aravinthrajchakkaravarthy.creationaldesignpattern.builderpattern;
 
+
 public class User 
 {
     //All final attributes

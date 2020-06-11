@@ -18,5 +18,7 @@ public class SingletonDesignPatternEarlyInstantiationDemo {
 		SingletonDesignPatternEarlyInstantiation obj2=SingletonDesignPatternEarlyInstantiation.getInstance();
 		obj2.printDetails(100);
 		System.out.println("Class loader for obj2"+obj2.getClass().getClassLoader());
+		
+		
 	}
 }
